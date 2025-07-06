@@ -82,6 +82,6 @@ To analyse sales data for KULTRA Mega Stores (KMS) to derive insights for revenu
 ---
 ## 👤 **About Me**
 
-I am **Oluwaseun Adebayo**, a Biochemist turned Data Analyst passionate about using data analytics to drive strategic decisions for businesses. Connect with me on [LinkedIn](https://www.linkedin.com) to see more of my works.
+I am **Oluwaseun Adebayo**, a Biochemist turned Data Analyst passionate about using data analytics to drive strategic decisions for businesses. Connect with me on [http://linkedin.com/in/oluwaseun-adebayo-8b3a10237/?trk=public-profile-join-page) to see more of my works.
 
 ---
