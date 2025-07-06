@@ -39,7 +39,6 @@ To analyse product and customer review data from Amazon to guide product improve
 - No strong correlation was found between discount and ratings, implying discounts don’t directly influence product satisfaction.
 - Top 5 products combined high ratings and reviews, making them strong candidates for flagship promotions.
 
-[Read full project report here](./Amazon_Product_Review_Analysis.xlsx) *(Upload your Excel file to this repo and replace link if needed)*
 
 ---
 
@@ -70,8 +69,6 @@ To analyse sales data for KULTRA Mega Stores (KMS) to derive insights for revenu
 - **Delivery Truck** incurred the highest shipping cost, requiring strategic review.
 - **Emily Phan** was the most valuable customer both in sales and profit – ideal for loyalty programs.
 - Shipping methods were not optimally aligned with order priority, leading to potential inefficiencies.
-
-[Read full project report here](./KMS_Sales_Analysis_Report.docx) *(Upload your Word or PDF report to this repo and replace link if needed)*
 
 ---
 
